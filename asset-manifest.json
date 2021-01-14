@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/eathub/static/css/main.80e4b7da.chunk.css",
+    "main.js": "/eathub/static/js/main.c0c6f084.chunk.js",
+    "main.js.map": "/eathub/static/js/main.c0c6f084.chunk.js.map",
+    "runtime-main.js": "/eathub/static/js/runtime-main.1335686c.js",
+    "runtime-main.js.map": "/eathub/static/js/runtime-main.1335686c.js.map",
+    "static/css/2.bd4e0dbb.chunk.css": "/eathub/static/css/2.bd4e0dbb.chunk.css",
+    "static/js/2.4f670d43.chunk.js": "/eathub/static/js/2.4f670d43.chunk.js",
+    "static/js/2.4f670d43.chunk.js.map": "/eathub/static/js/2.4f670d43.chunk.js.map",
+    "static/js/3.d71eeb09.chunk.js": "/eathub/static/js/3.d71eeb09.chunk.js",
+    "static/js/3.d71eeb09.chunk.js.map": "/eathub/static/js/3.d71eeb09.chunk.js.map",
+    "index.html": "/eathub/index.html",
+    "static/css/2.bd4e0dbb.chunk.css.map": "/eathub/static/css/2.bd4e0dbb.chunk.css.map",
+    "static/css/main.80e4b7da.chunk.css.map": "/eathub/static/css/main.80e4b7da.chunk.css.map",
+    "static/js/2.4f670d43.chunk.js.LICENSE.txt": "/eathub/static/js/2.4f670d43.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/eathub/static/media/arrow_right.0897f985.svg",
+    "static/media/bread.812c4518.png": "/eathub/static/media/bread.812c4518.png",
+    "static/media/cooking.ecd30824.png": "/eathub/static/media/cooking.ecd30824.png",
+    "static/media/all.min.css": "/eathub/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/inventory.aa49103d.jpg": "/eathub/static/media/inventory.aa49103d.jpg",
+    "static/media/logo.c4a40149.png": "/eathub/static/media/logo.c4a40149.png",
+    "static/media/online_order.fece9b51.jpg": "/eathub/static/media/online_order.fece9b51.jpg",
+    "static/media/Banner.css": "/eathub/static/media/spoon.f40294d9.jpg",
+    "static/media/wine2.b409b98a.png": "/eathub/static/media/wine2.b409b98a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1335686c.js",
+    "static/css/2.bd4e0dbb.chunk.css",
+    "static/js/2.4f670d43.chunk.js",
+    "static/css/main.80e4b7da.chunk.css",
+    "static/js/main.c0c6f084.chunk.js"
+  ]
+}
