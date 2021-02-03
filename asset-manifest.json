@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/eathub/static/css/main.0dac2ab5.chunk.css",
-    "main.js": "/eathub/static/js/main.7a18a28d.chunk.js",
-    "main.js.map": "/eathub/static/js/main.7a18a28d.chunk.js.map",
-    "runtime-main.js": "/eathub/static/js/runtime-main.61195c1f.js",
-    "runtime-main.js.map": "/eathub/static/js/runtime-main.61195c1f.js.map",
-    "static/css/2.40714d11.chunk.css": "/eathub/static/css/2.40714d11.chunk.css",
-    "static/js/2.c095c6c3.chunk.js": "/eathub/static/js/2.c095c6c3.chunk.js",
-    "static/js/2.c095c6c3.chunk.js.map": "/eathub/static/js/2.c095c6c3.chunk.js.map",
-    "static/js/3.6c22dd06.chunk.js": "/eathub/static/js/3.6c22dd06.chunk.js",
-    "static/js/3.6c22dd06.chunk.js.map": "/eathub/static/js/3.6c22dd06.chunk.js.map",
+    "main.js": "/eathub/static/js/main.4e75f001.chunk.js",
+    "main.js.map": "/eathub/static/js/main.4e75f001.chunk.js.map",
+    "runtime-main.js": "/eathub/static/js/runtime-main.70c7d43e.js",
+    "runtime-main.js.map": "/eathub/static/js/runtime-main.70c7d43e.js.map",
+    "static/css/2.b8aa79a2.chunk.css": "/eathub/static/css/2.b8aa79a2.chunk.css",
+    "static/js/2.46c23247.chunk.js": "/eathub/static/js/2.46c23247.chunk.js",
+    "static/js/2.46c23247.chunk.js.map": "/eathub/static/js/2.46c23247.chunk.js.map",
+    "static/js/3.c3a060c4.chunk.js": "/eathub/static/js/3.c3a060c4.chunk.js",
+    "static/js/3.c3a060c4.chunk.js.map": "/eathub/static/js/3.c3a060c4.chunk.js.map",
     "index.html": "/eathub/index.html",
-    "static/css/2.40714d11.chunk.css.map": "/eathub/static/css/2.40714d11.chunk.css.map",
+    "static/css/2.b8aa79a2.chunk.css.map": "/eathub/static/css/2.b8aa79a2.chunk.css.map",
     "static/css/main.0dac2ab5.chunk.css.map": "/eathub/static/css/main.0dac2ab5.chunk.css.map",
-    "static/js/2.c095c6c3.chunk.js.LICENSE.txt": "/eathub/static/js/2.c095c6c3.chunk.js.LICENSE.txt",
+    "static/js/2.46c23247.chunk.js.LICENSE.txt": "/eathub/static/js/2.46c23247.chunk.js.LICENSE.txt",
     "static/media/Frame1.adcd98a0.png": "/eathub/static/media/Frame1.adcd98a0.png",
     "static/media/Frame2.ca78d89f.png": "/eathub/static/media/Frame2.ca78d89f.png",
     "static/media/mdb.css": "/eathub/static/media/arrow_right.0897f985.svg",
@@ -28,10 +28,10 @@
     "static/media/waiter2.5b5dd4a9.png": "/eathub/static/media/waiter2.5b5dd4a9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61195c1f.js",
-    "static/css/2.40714d11.chunk.css",
-    "static/js/2.c095c6c3.chunk.js",
+    "static/js/runtime-main.70c7d43e.js",
+    "static/css/2.b8aa79a2.chunk.css",
+    "static/js/2.46c23247.chunk.js",
     "static/css/main.0dac2ab5.chunk.css",
-    "static/js/main.7a18a28d.chunk.js"
+    "static/js/main.4e75f001.chunk.js"
   ]
 }
